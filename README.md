@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uness7
+- 👋 Hi, I’m Youness Zioual, and currently enrolled in a bachelor degree majoring in CS at FSTS ( Faculty of Science and Technology SETTAT ) in Morocco.
 - 👀 I’m interested in Programming and CS in generla!
 - 🌱 I’m currently learning C language!
 - 💞️ I’m looking to collaborate on a beginner's project!
