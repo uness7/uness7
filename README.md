@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Youness Zioual, and currently enrolled in a bachelor degree majoring in CS at FSTS ( Faculty of Science and Technology SETTAT ) in Morocco.
+- 👋 Hi, I’m Youness Zioual, and currently enrolled in a bachelor degree majoring in CS at FSTS ( Faculty of Science and Technology ) in a city called SETTAT in Morocco.
 - 👀 I’m interested in Programming and CS in generla!
 - 🌱 I’m currently learning Java & Spring Boot to make beautiful & secure web applications. Project is coming soon.
 - 💞️ I’m looking to collaborate on any project in Java!
