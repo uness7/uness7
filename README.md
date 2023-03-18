@@ -2,7 +2,7 @@
 - 💞️ I’m interested in Programming and CS.
 - 🌱 I’m currently learning Java & Spring Boot to make beautiful & secure web applications. Project is coming soon.
 - 💞️ I’m looking to collaborate on any project in Java!
-- 📫 How to reach me on IG: @waizii
+- 📫 reach out on IG: @waizii
 
 <!---
 uness7/uness7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
