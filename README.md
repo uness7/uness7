@@ -1,6 +1,5 @@
- Hi, I’m Youness Zioual, and currently enrolled in a bachelor degree majoring in CS at FSTS AKA Faculty of Science and Technology in Morocco.
+Hi, I’m Youness Zioual, and currently enrolled in a bachelor degree majoring in COMPUTER SCIENCE at FSTS AKA Faculty of Science and Technology in Morocco.
 I'm a tech enthousiast, and I love creating software & logic.
-Reach out on IG: @waiziiii
 
 <!---
 uness7/uness7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
