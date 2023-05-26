@@ -1,4 +1,4 @@
-Hi, I’m Youness Zioual, and currently enrolled in a bachelor degree majoring in COMPUTER SCIENCE at FSTS AKA Faculty of Science and Technology in Morocco.
+Hi, I’m Youness Zioual, and currently enrolled in a bachelor degree majoring in computer science at FSTS AKA Faculty of Science and Technology in Morocco.
 I'm a tech enthousiast, and I love creating software & logic.
 
 <!---
