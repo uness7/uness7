@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uness7&layout=compact" />
 </p>
 <p>  
-  Hi, I’m Youness Zioual, and I'm based in Morocco. I code with passion. I'm a tech enthousiast, and I love crafting software & solving problems with logic.
+  Hi, I’m Youness Zioual, and I'm based in Morocco. I code with passion. I'm a tech enthousiast, and I luv crafting software & solving problems with logic. I've been building some big projects. Some of them are full-stack applications, and others are client-side only. I'm ready to tackle my first professional experience whether it be remote or onsite I'm ready. 
 </p>
 <br />
 <p>
