@@ -2,7 +2,7 @@ Hi, I’m Youness Zioual, and currently enrolled in a bachelor degree majoring i
 I'm a tech enthousiast, and I love creating software & logic.
 
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 
 <!---
