@@ -22,10 +22,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=PHPStorm&color=000&logo=PhpStorm&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/static/v1?label=&message=Vim/Spacevim&color=019733&logo=Vim&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/static/v1?label=&message=Composer&color=885630&logo=Composer&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/static/v1?label=&message=Postman&color=FF6C37&logo=Postman&logoColor=white&style=flat-square">
-
-Tools that I use on a daily basis in my projects 
-  <br>
+<img src="https://img.shields.io/static/v1?label=&message=Postman&color=FF6C37&logo=Postman&logoColor=white&style=flat-square">  
 <img src="https://img.shields.io/static/v1?label=&message=Typescript&color=2F74C0&logo=Typescript&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/static/v1?label=&message=GitHub Actions&color=2088FF&logo=GitHub%20Actions&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=GNU%20Bash&logoColor=white&style=flat-square">
