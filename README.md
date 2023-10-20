@@ -7,7 +7,8 @@
 --------------------------------------------------------------------------------------------------------------
 
 <p>  
-  Hi, I’m Youness Zioual, and I'm based in Morocco. I code with passion. I'm a tech enthousiast, and I luv crafting software & solving problems with logic. I've been building some big projects. I'm open for any professional experience whether it be remote or onsite I'm ready. 
+  Youness Zioual  
+  A tech enthousiast, and I luv crafting software & solving problems.
 </p>
 <br />
 <p>
