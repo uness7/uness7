@@ -1,7 +1,7 @@
 <h1 align="center">  
   Youness Zioual  
   <br />
-  <h3>
+  <h3 align="center">
     A tech enthousiast, and I luv crafting software & solving problems.
   </h3>
 </h1>
