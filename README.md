@@ -1,16 +1,14 @@
-
+<h1 align="center">  
+  Youness Zioual  
+  <br />
+  A tech enthousiast, and I luv crafting software & solving problems.
+</h1>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=uness7&show_icons=true&hide_border=false&line_height=20&title_color=2d5ded&show_owner=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uness7&layout=compact" />
 </p>
 
 --------------------------------------------------------------------------------------------------------------
-
-<p>  
-  Youness Zioual  
-  <br />
-  A tech enthousiast, and I luv crafting software & solving problems.
-</p>
 <br />
 <p>
   Tools I use everyday: 
