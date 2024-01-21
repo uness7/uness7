@@ -1,7 +1,9 @@
 <h1 align="center">  
   Youness Zioual  
   <br />
-  <p>A tech enthousiast, and I luv crafting software & solving problems.</p>
+  <h3>
+    A tech enthousiast, and I luv crafting software & solving problems.
+  </h3>
 </h1>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=uness7&show_icons=true&hide_border=false&line_height=20&title_color=2d5ded&show_owner=true"/>
