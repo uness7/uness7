@@ -2,7 +2,7 @@
   Youness Zioual  
   <br />
   <h3 align="center">
-    A tech enthousiast, and I luv crafting software & solving problems.
+    A tech enthousiast who luvs crafting software & solving problems.
   </h3>
 </h1>
 <div align="center">
