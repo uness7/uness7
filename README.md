@@ -4,6 +4,9 @@
   <h3 align="center">
     A tech enthousiast who luvs crafting software & solving problems.
   </h3>
+  <p>
+    My favorite quote so far : "I now work on operating systems in C for a living. I just wanted to say that I still do not remember how to declare a function pointer. I still need to Google it every time."
+  </p>
 </h1>
 <div align="center">
 <p>
