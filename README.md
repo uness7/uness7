@@ -1,9 +1,6 @@
 <h1 align="center">  
   Youness Zioual  
   <br />
-  <p align="center">
-<img width ="1080" height="500" src="https://github.com/wkf1lthy/wkf1lthy/blob/master/gif/Ypa5.gif"
-</p>
   <h3 align="center">
     A tech enthousiast who loves crafting software & solving problems.
   </h3>
@@ -11,6 +8,9 @@
     My favorite quote so far : "I now work on operating systems in C for a living. I just wanted to say that I still do not remember how to declare a function pointer. I still need to Google it every time."
   </p>
 </h1>
+<p align="center">
+<img width ="1080" height="500" src="https://github.com/wkf1lthy/wkf1lthy/blob/master/gif/Ypa5.gif"
+</p>
 <div align="center">
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=uness7&show_icons=true&hide_border=false&line_height=20&title_color=2d5ded&show_owner=true"/>
