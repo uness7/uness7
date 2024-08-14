@@ -49,5 +49,5 @@
  | 6B  |  [pipex](https://github.com/uness7/pipex-42)           |   ✅ |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   |  [push_swap](https://github.com/uness7/push_swap)                                 | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   |  [minishell](https://github.com/uness7/minishell)                                  | ✅     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
- | 9   |  [Philosphers](https://github.com/uness7/philo)    |✅|                          |🛠️|| 19  | CPP Module 08                              | 🔒     |   |     |                       |        |<hr>
+ | 9   |  [Philosphers](https://github.com/uness7/philo)    |✅|              | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |<hr>
 
