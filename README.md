@@ -46,8 +46,8 @@
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
 | 5B  |  [so_long](https://github.com/wkf1lthy/SoLong)       | ✅     |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
 | 6A  |  [minitalk](https://github.com/wkf1lthy/42_MiniTalk)                                  | ✅     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
-| 6B  |  pipex           | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
-| 7   |  [push_swap](https://github.com/wkf1lthy/42_PushSwap)                                 | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
+ | 6B  |  [pipex](https://github.com/uness7/pipex-42)           |   ✅ |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
+| 7   |  [push_swap](https://github.com/uness7/push_swap)                                 | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   |  [minishell](https://github.com/uness7/minishell)                                  | ✅     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   |  Philosphers                                |🛠️|| 19  | CPP Module 08                              | 🔒     |   |     |                       |        |<hr>
+ | 9   |  [Philosphers](https://github.com/uness7/philo)    |✅|                          |🛠️|| 19  | CPP Module 08                              | 🔒     |   |     |                       |        |<hr>
 
