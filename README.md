@@ -7,7 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uness7&layout=compact" />
 </p>
 </div>
--------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------
+
 <h1 align="center">  
   Youness Zioual  
   <br />
@@ -18,7 +20,9 @@
     My favorite quote so far : "I now work on operating systems in C for a living. I just wanted to say that I still do not remember how to declare a function pointer. I still need to Google it every time."
   </p>
 </h1>
---------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------
+
 <br />
 <p>
   Tools I use everyday: 
