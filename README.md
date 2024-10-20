@@ -1,6 +1,3 @@
-<p align="center">
-<img width ="1080" height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQ1czVoOWptMWFsNDVhYmk5ajFsaTQxa2p4cm5vcjllaDltaGRycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp"
-</p>
 <div align="center">
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=uness7&show_icons=true&hide_border=false&line_height=20&title_color=2d5ded&show_owner=true"/>
