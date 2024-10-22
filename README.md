@@ -8,8 +8,6 @@
 -----------------------------------------------------------------------------------------------------------------
 
 <h1 align="center">  
-  Youness Zioual  
-  <br />
   <h3 align="center">
     A tech enthousiast who loves crafting software & solving problems.
   </h3>
