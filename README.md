@@ -39,17 +39,17 @@
 
 ## 42cursus Progress 👉 📂
 
+
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](https://github.com/uness7/libft)        | ✅     |   | 10A | cub3d                                      | ✅     |   | 20  | NetPractice                    | ✅       |
-| 2   | Born2beroot                                 | ✅     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | X     |
-| 3   | [ft_printf](https://github.com/uness7/ft_printf)  | ✅     |   | 11  | [CPP Module 00](https://github.com/uness7/42-cpp-pool)                              | ✅ 
-| 4   | [get_next_line](https://github.com/uness7/GNL2)| ✅     |   | 12  | [CPP Module 01](https://github.com/uness7/42-cpp-pool)                          | ✅      |   | 22B | webserv                        | 🔒      |
-| 5A  | [Fractol](https://github.com/uness7/fractol)                                         | ✅     |   | 13  | [CPP Module 02](https://github.com/uness7/42-cpp-pool)                                | ✅     |   | 23  | Inception                      | 🔒      |
-| 5B  |  so_long       |   🔒    |   | 14  | [CPP Module 03](https://github.com/uness7/42-cpp-pool)                              | ✅      |   | 24  | ft_transcendence               | 🔒      |
-| 6A  |  minitalk                                  | 🔒     |   | 15  | [CPP Module 04](https://github.com/uness7/42-cpp-pool)                              |   ✅    |   |     |                                |         |
- | 6B  |  [pipex](https://github.com/uness7/pipex-42)           |   ✅ |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
-| 7   |  [push_swap](https://github.com/uness7/push_swap)                                 | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
-| 8   |  [minishell](https://github.com/uness7/minishell)                                  | ✅     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
- | 9   |  [Philosphers](https://github.com/uness7/philo)    |✅|              | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |<hr>
-
+| 2   | Born2beroot                                 | ✅     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | ❌     |
+| 3   | [ft_printf](https://github.com/uness7/ft_printf)  | ✅     |   | 11  | [CPP Module 00](https://github.com/uness7/42-cpp-pool) | ✅ |
+| 4   | [get_next_line](https://github.com/uness7/GNL2)| ✅     |   | 12  | [CPP Module 01](https://github.com/uness7/42-cpp-pool) | ✅     |   | 22B | webserv                        | 🔒      |
+| 5A  | [Fractol](https://github.com/uness7/fractol) | ✅     |   | 13  | [CPP Module 02](https://github.com/uness7/42-cpp-pool) | ✅     |   | 23  | Inception                      | 🔒      |
+| 5B  | so_long       | 🔒    |   | 14  | [CPP Module 03](https://github.com/uness7/42-cpp-pool) | ✅     |   | 24  | ft_transcendence               | 🔒      |
+| 6A  | minitalk                                  | 🔒     |   | 15  | [CPP Module 04](https://github.com/uness7/42-cpp-pool) | ✅     |   |     |                                |         |
+| 6B  | [pipex](https://github.com/uness7/pipex-42)           | ✅     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
+| 7   | [push_swap](https://github.com/uness7/push_swap) | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
+| 8   | [minishell](https://github.com/uness7/minishell) | ✅     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
+| 9   | [Philosophers](https://github.com/uness7/philo) | ✅ |   | 19  | CPP Module 08                              | 🔒     |   |     |                       |        |
