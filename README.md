@@ -12,7 +12,7 @@
     A tech enthousiast who loves crafting software & solving problems.
   </h3>
   <p>
-    My favorite quote so far : "I now work on operating systems in C for a living. I just wanted to say that I still do not remember how to declare a function pointer. I still need to Google it every time."
+    Favorite quote so far : "I now work on operating systems in C for a living. I just wanted to say that I still do not remember how to declare a function pointer. I still need to Google it every time."
   </p>
 </h1>
 
@@ -37,7 +37,7 @@
 
 
 
-## 42cursus Progress 👉 📂
+## 42 Cursus Progress 📂
 
 
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
