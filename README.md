@@ -1,22 +1,4 @@
-<div align="center">
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=uness7&show_icons=true&hide_border=false&line_height=20&title_color=2d5ded&show_owner=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uness7&layout=compact" />
-</p>
-</div>
 
------------------------------------------------------------------------------------------------------------------
-
-<h1 align="center">  
-  <h3 align="center">
-    A tech enthousiast who loves crafting software & solving problems.
-  </h3>
-  <p>
-    Favorite quote so far : "I now work on operating systems in C for a living. I just wanted to say that I still do not remember how to declare a function pointer. I still need to Google it every time."
-  </p>
-</h1>
-
------------------------------------------------------------------------------------------------------------------
 
 <br />
 <p>
