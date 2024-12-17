@@ -16,7 +16,7 @@
 -----------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/uness7" alt="Leetcode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/uness7?ext=activity" alt="Leetcode Stats"/>
 </p>
 
 
