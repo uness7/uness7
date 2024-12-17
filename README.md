@@ -1,7 +1,7 @@
 
 
 <br />
-<p>
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/static/v1?label=&message=Vim/Spacevim&color=019733&logo=Vim&logoColor=white&style=flat-square">
