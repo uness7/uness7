@@ -23,7 +23,7 @@
 -----------------------------------------------------------------------------------------------------------------
 
 
-<div align="center">
+
 ## <h1 align="center">42 Cursus Progress 📂</h1>
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
@@ -36,4 +36,3 @@
 | 7   | [push_swap](https://github.com/uness7/push_swap) | ✅     |   | 16  | CPP Module 05                              | ✅     |   |     |                                |         |
 | 8   | [minishell](https://github.com/uness7/minishell) | ✅     |   | 17  | CPP Module 06                              | ✅     |   |     |                                |         |
 | 9   | [Philosophers](https://github.com/uness7/philo) | ✅ |   | 19  | CPP Module 08                              | ✅     |   |     |                                |         |
-</div>
