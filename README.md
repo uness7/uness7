@@ -24,7 +24,7 @@
 
 
 
-## 42 Cursus Progress 📂
+## <h1 align="center">42 Cursus Progress 📂</h1>
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](https://github.com/uness7/libft)        | ✅     |   | 10A | cub3d                                      | ✅     |   | 20  | NetPractice                    | ✅       |
